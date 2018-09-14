@@ -1,0 +1,12 @@
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\bin\Debug\TCKDogrula.exe.config
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\bin\Debug\TCKDogrula.exe
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\bin\Debug\TCKDogrula.pdb
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\obj\Debug\TCKDogrula.csprojAssemblyReference.cache
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\obj\Debug\TCKDogrula.Form1.resources
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\obj\Debug\TCKDogrula.Properties.Resources.resources
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\obj\Debug\TCKDogrula.csproj.GenerateResource.cache
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\obj\Debug\TCKDogrula.csproj.CoreCompileInputs.cache
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\obj\Debug\TCKDogrula.csproj.CopyComplete
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\obj\Debug\TCKDogrula.exe
+D:\C# Servis-Api Mimarileri\3-WCFService\TCKDogrula\TCKDogrula\obj\Debug\TCKDogrula.pdb
